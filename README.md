@@ -1,6 +1,8 @@
 # Team-Selector-Project-3
 An interactive team selection app for coaches to share lineups.
 
+View app on Heroku https://team-selector-react.herokuapp.com
+
 Soccer Formation Application
 
 https://github.com/loneyb11/Team-Selector-Project-3
